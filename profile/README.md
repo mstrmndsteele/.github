@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="MSTRMNDS" width="100%" />
+  <img src="./assets/banner.svg" alt="MSTRMNDS" width="100%" />
 </p>
 
 ![Open Source / Open Mind / Open Intelligence](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1200&color=FFB000&center=true&vCenter=true&width=760&height=40&lines=OPEN+SOURCE+%2F+OPEN+MIND+%2F+OPEN+INTELLIGENCE;AI+AGENTS+%C2%B7+CUSTOM+APPS+%C2%B7+DASHBOARDS+%C2%B7+BRAND+SYSTEMS)
@@ -10,7 +10,7 @@
 ![HQ](https://img.shields.io/badge/HQ-Remote_%2F_Global-0A0A0B?style=for-the-badge&labelColor=0A0A0B&color=2a2a2e)
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## `// BOOT SEQUENCE`
@@ -27,7 +27,7 @@
 **MSTRMND Labs is an AI agency and creative technology studio.** We build the agents, apps, dashboards, and brand systems that small and mid-size operators actually run their business on — designed by people who have deployed hardware in the field, not just shipped code from a desk.
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## `// WHAT WE BUILD`
@@ -61,7 +61,7 @@ Stripe, Supabase, Shopify, Slack, Gmail, and more — stitched into workflows th
 Off-grid power, Starlink terminals, and connectivity at remote sites. Hardware and software, one team.
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## `// SYSTEMS`
@@ -77,7 +77,7 @@ Off-grid power, Starlink terminals, and connectivity at remote sites. Hardware a
 Pin your best public repos to the org page to sit right below this section.
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## `// STACK`
@@ -96,7 +96,7 @@ Pin your best public repos to the org page to sit right below this section.
 ![Anthropic](https://img.shields.io/badge/Claude-0A0A0B?style=for-the-badge&logo=anthropic&logoColor=D97757)
 
 <p align="center">
-  <img src="./assets/divider.png" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## `// BUILD LOG`
