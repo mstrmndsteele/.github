@@ -13,7 +13,7 @@
   <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
-## `// BOOT SEQUENCE`
+## `// CONCEPTUAL BOOT SEQUENCE`
 
 ```text
 > mstrmnd --init
